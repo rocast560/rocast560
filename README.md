@@ -2,7 +2,7 @@
 local RobertoCastro = {
     display_name = "Roberto Castro",
     university = "California State Polytechnic University, Pomona",
-    hobbies = {"Rock Climbing", "Surfing", "Gaming"}, 
+    hobbies = {"Rock Climbing", "Surfing", "Gaming (just roblox)"}, 
     aliases = {"grantware"}                         
 }
 ```
